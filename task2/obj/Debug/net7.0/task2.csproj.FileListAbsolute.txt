@@ -1,0 +1,15 @@
+/home/basfeo/Documents/seminar2C#/task2/bin/Debug/net7.0/task2
+/home/basfeo/Documents/seminar2C#/task2/bin/Debug/net7.0/task2.deps.json
+/home/basfeo/Documents/seminar2C#/task2/bin/Debug/net7.0/task2.runtimeconfig.json
+/home/basfeo/Documents/seminar2C#/task2/bin/Debug/net7.0/task2.dll
+/home/basfeo/Documents/seminar2C#/task2/bin/Debug/net7.0/task2.pdb
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.csproj.AssemblyReference.cache
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.AssemblyInfoInputs.cache
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.AssemblyInfo.cs
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.csproj.CoreCompileInputs.cache
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.dll
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/refint/task2.dll
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.pdb
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/task2.genruntimeconfig.cache
+/home/basfeo/Documents/seminar2C#/task2/obj/Debug/net7.0/ref/task2.dll
