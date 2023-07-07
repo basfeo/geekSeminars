@@ -1,4 +1,11 @@
-﻿double[,] FillMatrix(int row, int col, int leftRange, int rightRange)
+﻿// Задача 47. Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+
+// m = 3, n = 4.
+// 0,5 7 -2 -0,2
+// 1 -3,3 8 -9,9
+// 8 7,8 -7,1 9
+
+double[,] FillMatrix(int row, int col, int leftRange, int rightRange)
 {
     double[,] tempMatrix = new double[row, col];
     // Random rand = new Random();
@@ -16,15 +23,6 @@
     return tempMatrix;
 }
 
-// int DiagSquare(int[,] tempMatrix)
-// {
-//     int sum = 0;
-//     for (int i = 0; i < tempMatrix.GetLength(0); i++)
-//         for (int j = 0; j < tempMatrix.GetLength(1); j++)
-//             if (i == j)
-//                 sum+=tempMatrix[i,j];
-//     return sum;
-// }
 
 int ReadInt(string text)
 {
@@ -44,20 +42,8 @@ void PrintMatrix(double[,] matrixFotPrint)
     }
 }
 
-// int DiagSquare(int[,] tempMatrix, int row, int col)
-// {
-//     int sum = 0;
-//     int iterations = Math.Min(row, col);
-//     for (int i = 0; i < iterations; i++)
-//     {
-//         sum += tempMatrix[i, i];
-//     }
-//     return sum;
-// }
-
 
 int rows = ReadInt("Введите количество строк: ");
 int cols = ReadInt("Введите количество столбцов: ");
 double[,] matrix = FillMatrix(rows, cols, 0, 10);
 PrintMatrix(matrix);
-// System.Console.WriteLine(DiagSquare(matrix, rows, cols));

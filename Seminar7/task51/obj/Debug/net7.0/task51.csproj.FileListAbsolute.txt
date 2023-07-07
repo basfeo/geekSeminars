@@ -1,0 +1,15 @@
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/bin/Debug/net7.0/task51
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/bin/Debug/net7.0/task51.deps.json
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/bin/Debug/net7.0/task51.runtimeconfig.json
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/bin/Debug/net7.0/task51.dll
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/bin/Debug/net7.0/task51.pdb
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.csproj.AssemblyReference.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.GeneratedMSBuildEditorConfig.editorconfig
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.AssemblyInfoInputs.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.AssemblyInfo.cs
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.csproj.CoreCompileInputs.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.dll
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/refint/task51.dll
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.pdb
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/task51.genruntimeconfig.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/task51/obj/Debug/net7.0/ref/task51.dll

@@ -1,0 +1,15 @@
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.csproj.AssemblyReference.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.GeneratedMSBuildEditorConfig.editorconfig
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.AssemblyInfoInputs.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.AssemblyInfo.cs
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.csproj.CoreCompileInputs.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/bin/Debug/net7.0/HWrask50
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/bin/Debug/net7.0/HWrask50.deps.json
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/bin/Debug/net7.0/HWrask50.runtimeconfig.json
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/bin/Debug/net7.0/HWrask50.dll
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/bin/Debug/net7.0/HWrask50.pdb
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.dll
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/refint/HWrask50.dll
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.pdb
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/HWrask50.genruntimeconfig.cache
+/home/basfeo/Documents/geekSeminars/Seminar7/HWrask50/obj/Debug/net7.0/ref/HWrask50.dll
