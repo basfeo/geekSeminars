@@ -1,0 +1,5 @@
+/home/basfeo/Documents/geekSeminars/Seminar8/task57/obj/Debug/net7.0/task57.csproj.AssemblyReference.cache
+/home/basfeo/Documents/geekSeminars/Seminar8/task57/obj/Debug/net7.0/task57.GeneratedMSBuildEditorConfig.editorconfig
+/home/basfeo/Documents/geekSeminars/Seminar8/task57/obj/Debug/net7.0/task57.AssemblyInfoInputs.cache
+/home/basfeo/Documents/geekSeminars/Seminar8/task57/obj/Debug/net7.0/task57.AssemblyInfo.cs
+/home/basfeo/Documents/geekSeminars/Seminar8/task57/obj/Debug/net7.0/task57.csproj.CoreCompileInputs.cache
